@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'YangMasonry'
+  s.name     = 'cangMasonry'
   s.version  = '0.0.1'
   s.license  = 'MIT'
   s.summary  = 'Harness the power of Auto Layout NSLayoutConstraints with a simplified, chainable and expressive syntax.'
